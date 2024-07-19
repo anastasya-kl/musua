@@ -1,0 +1,301 @@
+
+    --------------------> Date: 2024-05-07 12:37:24.759187 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			
+			 -- deleted playlist from favourite for all users
+			 -- {'success': True, 'result': 'Playlist is cleared'}
+			 -- deleted playlist
+    --------------------> Date: 2024-05-07 13:06:23.405271 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:07:29.608973 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:08:39.295630 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:09:45.375936 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:09:58.992478 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:10:26.464301 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:11:00.104069 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:11:33.053869 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:12:09.462416 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:12:21.773115 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-07 13:12:46.293045 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			['2fDRQcRIcEwkTBku0rAzK5', '38R5yAJIIcdWcdAeCLnYZw', '783EwQgfrmZheCiNJR8jc1']
+    --------------------> Date: 2024-05-07 13:13:00.116695 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			['2fDRQcRIcEwkTBku0rAzK5', '38R5yAJIIcdWcdAeCLnYZw', '783EwQgfrmZheCiNJR8jc1']
+    --------------------> Date: 2024-05-11 08:38:50.156668 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			['playlist is successfuly added']
+    --------------------> Date: 2024-05-11 10:58:56.052034 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			['playlist is successfuly added']
+    --------------------> Date: 2024-05-11 15:46:42.272167 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-11 15:50:12.731641 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-11 15:50:19.600968 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-11 15:50:59.852225 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'id': '00JnKjmD0MMpxCVmuJhvob', 'name': 'Все було так', 'release_date': datetime.date(2020, 11, 24), 'album_total_tracks': 3, 'background': 'ab67616d00001e024b6028f30eb94f3242b55c3b', 'type': 'single'}
+    --------------------> Date: 2024-05-11 15:51:42.814876 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-11 15:52:45.222275 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-11 15:53:23.226352 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-11 16:04:06.851917 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'id': '0', 'name': 'S', 'popularity': 'j', 'photo': '8'}
+    --------------------> Date: 2024-05-11 16:04:55.310604 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'id': '0', 'name': 'S', 'popularity': 'j', 'photo': '8'}
+    --------------------> Date: 2024-05-11 16:06:15.337848 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'id': '00JnKjmD0MMpxCVmuJhvob', 'name': 'Все було так', 'release_date': datetime.date(2020, 11, 24), 'album_total_tracks': 3, 'background': 'ab67616d00001e024b6028f30eb94f3242b55c3b', 'type': 'single'}
+    --------------------> Date: 2024-05-11 16:06:15.943802 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'id': '00JnKjmD0MMpxCVmuJhvob', 'name': 'Все було так', 'release_date': datetime.date(2020, 11, 24), 'album_total_tracks': 3, 'background': 'ab67616d00001e024b6028f30eb94f3242b55c3b', 'type': 'single'}
+    --------------------> Date: 2024-05-11 16:06:38.025305 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'id': '00JnKjmD0MMpxCVmuJhvob', 'name': 'Все було так', 'release_date': datetime.date(2020, 11, 24), 'album_total_tracks': 3, 'background': 'ab67616d00001e024b6028f30eb94f3242b55c3b', 'type': 'single'}
+    --------------------> Date: 2024-05-11 16:07:25.866358 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'id': '0Sj8Un48Lw3DT7B2zU60AU', 'name': 'Acee2K', 'popularity': 1, 'photo': 'ab6761610000517462c4ab6dd67c56110f1564e9'}
+    --------------------> Date: 2024-05-11 16:08:14.007789 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
+    --------------------> Date: 2024-05-11 16:10:54.478661 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'song': {'id': '0e7EB8Nrtvdz61eF9XfvDz', 'name': 'Hurt', 'duration_ms': datetime.timedelta(days=1, seconds=2075), 'track_number': 16, 'preview_url_id': None}, 'album': {'id': '0ovWd8GEjEAluC2Tk8XXie', 'name': '10', 'release_date': datetime.date(2019, 9, 6), 'album_total_tracks': 21, 'background': 'ab67616d00001e0245dc63ecf0c1d24e4f0ada39', 'type': 'album'}, 'artists': [{'success': True, 'result': {'id': '4EXfia20rgVLyubQiYtOIC', 'name': 'Jamala', 'popularity': 33, 'photo': 'ab67616100005174590cb85529a1bffaaa350d84'}}]}
+    --------------------> Date: 2024-05-11 16:11:00.339525 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'song': {'id': '0e7EB8Nrtvdz61eF9XfvDz', 'name': 'Hurt', 'duration_ms': datetime.timedelta(days=1, seconds=2075), 'track_number': 16, 'preview_url_id': None}, 'album': {'id': '0ovWd8GEjEAluC2Tk8XXie', 'name': '10', 'release_date': datetime.date(2019, 9, 6), 'album_total_tracks': 21, 'background': 'ab67616d00001e0245dc63ecf0c1d24e4f0ada39', 'type': 'album'}, 'artists': [{'success': True, 'result': {'id': '4EXfia20rgVLyubQiYtOIC', 'name': 'Jamala', 'popularity': 33, 'photo': 'ab67616100005174590cb85529a1bffaaa350d84'}}]}
+    --------------------> Date: 2024-05-11 16:21:03.315888 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'song': {'id': '0e7EB8Nrtvdz61eF9XfvDz', 'name': 'Hurt', 'duration_ms': datetime.timedelta(days=1, seconds=2075), 'track_number': 16, 'preview_url_id': None}, 'album': {'id': '0ovWd8GEjEAluC2Tk8XXie', 'name': '10', 'release_date': datetime.date(2019, 9, 6), 'album_total_tracks': 21, 'background': 'ab67616d00001e0245dc63ecf0c1d24e4f0ada39', 'type': 'album'}, 'artists': [{'success': True, 'result': {'id': '4EXfia20rgVLyubQiYtOIC', 'name': 'Jamala', 'popularity': 33, 'photo': 'ab67616100005174590cb85529a1bffaaa350d84'}}]}
+    --------------------> Date: 2024-05-11 16:30:01.844600 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			{'song': {'id': '0e7EB8Nrtvdz61eF9XfvDz', 'name': 'Hurt', 'duration_ms': datetime.timedelta(days=1, seconds=2075), 'track_number': 16, 'preview_url_id': None}, 'album': {}, 'artists': []}
+    --------------------> Date: 2024-05-11 21:54:05.228645 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			Playlist is successfuly created
+    --------------------> Date: 2024-05-11 22:03:43.687228 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			False
+    Functions results feedbacks       : 
+			['Error -> add_songs_to_playlists : 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`muzua`.`playlist_songs`, CONSTRAINT `playlist_songs_ibfk_1` FOREIGN KEY (`id_playlist`) REFERENCES `playlists` (`id`))']
+    --------------------> Date: 2024-05-11 22:04:26.565943 <--------------------
+    Data base connection status       : True
+    Data base commit status           : True
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+			True
+    Functions results feedbacks       : 
+			['Song is successfuly added', 'Song is successfuly added', 'Song is successfuly added']
+    --------------------> Date: 2024-05-11 22:04:57.832633 <--------------------
+    Data base connection status       : True
+    Data base commit status           : None
+    Data base close connection status : True
+    Data base errors message          : None
+    Functions success feedbacks       : 
+    Functions results feedbacks       : 
