@@ -339,9 +339,9 @@ def create_basic_reccomendations(cursor):
         if playlist_data['songs_count'] > 0:
             playlists_data.append(playlist_data)
     
-    # random.shuffle(playlists_data)
-    # random.shuffle(artists_data)
-    # random.shuffle(songs_data)
+    random.shuffle(playlists_data)
+    random.shuffle(artists_data)
+    random.shuffle(songs_data)
     
     reccomendations = [
         {'type' : 'Playlist',   'title' : 'Варто послухати',     'data' : playlists_data},
@@ -444,19 +444,3 @@ def content_template(servername = "localhost", username = "root", password = "",
         if conn.is_connected():
             conn.close()
         return result
-
-
-# success = content_template()
-# print(
-#     f"""
-#     {success}
-#     """
-#     )
-
-# f"""
-#     user_id: {success['user_id']}
-#     ------------------------------------
-#     songs_ids: {success['songs_ids']}
-#     ------------------------------------
-#     artist_ids: {success['artist_ids']}
-#     """
