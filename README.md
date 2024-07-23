@@ -1171,19 +1171,21 @@ export async function createPlaylist(data) {
 
 ---
 
-<figure style="text-align: center; max-width: 400px;">
-    <img src="imgs-screens/Sign-in.jpg" alt="Sign in Screen" style="width: 100%;">
-    <figcaption>Форма входу (реєстрації)</figcaption>
-</figure>
+<p align="center">
+  <img src="imgs-screens/Sign-in.jpg" alt="Sign in Screen" width="400">
+</p>
+
+<p align="center"><i>Форма входу (реєстрації)</i></p>
 
 > При _реєстрації_ вводяться пароль, пошта та ім'я користувача. При _вході_ - пароль та пошта.
 
 ---
 
-<figure style="text-align: center; max-width: 400px;">
-    <img src="imgs-screens/Home.jpg" alt="Home Screen" style="width: 100%;">
-    <figcaption>Домашня</figcaption>
-</figure>
+<p align="center">
+  <img src="imgs-screens/Home.jpg" alt="Home Screen" width="400">
+</p>
+
+<p align="center"><i>Домашня</i></p>
 
 > На головній вкладці відображаються декілька (наприклад, тут до 3-ох) останніх збережених/створених плейлистів користувача та рекомендації.
 
@@ -1192,35 +1194,39 @@ export async function createPlaylist(data) {
 
 ---
 
-<figure style="text-align: center; max-width: 400px;">
-    <img src="imgs-screens/Search.jpg" alt="Search/Categories Screen" style="width: 100%;">
-    <figcaption>Категорії</figcaption>
-</figure>
+<p align="center">
+  <img src="imgs-screens/Search.jpg" alt="Search/Categories Screen" width="400">
+</p>
+
+<p align="center"><i>Категорії</i></p>
 
 > Тут відображаються жанрові категорії. Пригадаємо [формування бази даних](#database-design) - для `genre` назва жанру зберігається у вигляді конкретного жанру та його узагальнення (`hard-rock`/`rock` тощо), а категорія має посилання (`FK`) на цей узагальнений жанр. Власне ця вкладка надає можливість переглядати контент категорій.
 
 ---
 
-<figure style="text-align: center; max-width: 400px;">
-    <img src="imgs-screens/Сategory.jpg" alt="Сategory Screen" style="width: 100%;">
-    <figcaption>Контент категорії (жанру)</figcaption>
-</figure>
+<p align="center">
+  <img src="imgs-screens/Сategory.jpg" alt="Сategory Screen" width="400">
+</p>
+
+<p align="center"><i>Контент категорії (жанру)</i></p>
 
 ---
 
-<figure style="text-align: center; max-width: 400px;">
-    <img src="imgs-screens/Media.jpg" alt="Media Screen" style="width: 100%;">
-    <figcaption>Медіатека користувача</figcaption>
-</figure>
+<p align="center">
+  <img src="imgs-screens/Media.jpg" alt="Media Screen" width="400">
+</p>
+
+<p align="center"><i>Медіатека користувача</i></p>
 
 > Тут відображаються вподобані пісні та плейлисти користувача.
 
 ---
 
-<figure style="text-align: center; max-width: 400px;">
-    <img src="imgs-screens/Playlist.jpg" alt="Playlist Screen" style="width: 100%;">
-    <figcaption>Плейлисти/Альбоми</figcaption>
-</figure>
+<p align="center">
+  <img src="imgs-screens/Playlist.jpg" alt="Playlist Screen" width="400">
+</p>
+
+<p align="center"><i>Плейлисти/Альбоми</i></p>
 
 > Приклад того, як може виглядати вміст плейлиста/альбому:
 >   - на цьому зображенні видно іконку для "видалення" плейлиста - вона відображається у тому випадку, якщо ми розглядаємо плейлист користувача
