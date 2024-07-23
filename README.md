@@ -1163,10 +1163,11 @@ export async function createPlaylist(data) {
 
 ---
 
-<figure style="text-align: center; max-width: 400px;">
-    <img src="imgs-screens/Loading.jpg" alt="Loading Screen" style="width: 100%;">
-    <figcaption>Екран завантаження</figcaption>
-</figure>
+<p align="center">
+  <img src="imgs-screens/Loading.jpg" alt="Loading Screen" width="400">
+</p>
+
+<p align="center"><i>Екран завантаження</i></p>
 
 ---
 
