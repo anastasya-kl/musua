@@ -1,6 +1,7 @@
 # :notes: Musua
 
 Мобільний додаток для української музичної платформи
+
 Зміст:
 1. [Опис](#description)
 2. [Теоретична база формування рекомендацій](#teoretical-reccomendations) 
@@ -10,7 +11,9 @@
     + [Аналіз backend-у](#backend)
     + [Аналіз API](#api)
     + [Аналіз frontend-у](#frontend)
-4. [Готовий додаток](#full-stacked-app)
+4. [Галерея](#gallery)
+5. [Демо відео](#video)
+6. [Додаткова інформація](#info)
 
 > [!NOTE]
 > Цей проект не є готовим рішенням, що враховує усі нюанси процесу створення та підтримки подібного роду платформ. Він відображає лише ключові кроки розробки та може слугувати базою для подальшого розвитку.
@@ -83,6 +86,8 @@
 Розглянемо усі аспекти детальніше.
 
 ### <span id="database-design">3.1. Проектування бази даних</span>
+
+> У папці `sql` знаходяться файли `.sql` - є база даних із заповненим музичним контентом та база із повністю пустими таблицями. Їх можна імпортувати, зокрема в `MySQL`.
 
 Проаналізуємо, які таблиці були створені, їхні зв'язки та власне дані, які вони зберігають
 
@@ -1159,7 +1164,7 @@ export async function createPlaylist(data) {
 Аналогічний приклад роботи `POST` запиту. 
 > За таким принципом дані про контент підтягуються із БД або передаються для їх запису у неї.
 
-# :flower_playing_cards: 4. <span id=full-stacked-app>Готовий додаток</span>
+## :flower_playing_cards: 4. <span id=gallery>Галерея</span>
 
 ---
 
@@ -1234,4 +1239,30 @@ export async function createPlaylist(data) {
 
 ---
 
+<<<<<<< HEAD
 <div style="padding:211.11% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/988908196?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Musua"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+=======
+## :video_camera: 5. <span id=video>Демо відео</span>
+
+Ви можете переглянути демонстрацію роботи Musua за цим посиланням: [Musua Demo на Vimeo](https://vimeo.com/988908196)
+
+У відео показано основні функції додатку, включаючи:
+- Навігацію по інтерфейсу
+- Процес створення плейлистів
+- Роботу системи рекомендацій
+
+---
+
+## :bulb: 6. <span id=info>Використані ресурси та джерела</span>
+
+### Технології та API
+- [Spotify API](https://developer.spotify.com/documentation/web-api)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- [React Native](https://reactnative.dev/)
+
+### Теоретичні матеріали
+- [Реляційні бази даних](https://foxminded.ua/reliatsiini-bazy-danykh/)
+- [K-Means алгоритм](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+- [DBSCAN алгоритм](https://scikit-learn.org/dev/auto_examples/cluster/plot_dbscan.html)
+- [OPTICS алгоритм](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html)
+>>>>>>> 64324b2 (Final readme commit)
