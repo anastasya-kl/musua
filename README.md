@@ -1239,9 +1239,6 @@ export async function createPlaylist(data) {
 
 ---
 
-<<<<<<< HEAD
-<div style="padding:211.11% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/988908196?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Musua"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-=======
 ## :video_camera: 5. <span id=video>Демо відео</span>
 
 Ви можете переглянути демонстрацію роботи Musua за цим посиланням: [Musua Demo на Vimeo](https://vimeo.com/988908196)
@@ -1265,4 +1262,3 @@ export async function createPlaylist(data) {
 - [K-Means алгоритм](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
 - [DBSCAN алгоритм](https://scikit-learn.org/dev/auto_examples/cluster/plot_dbscan.html)
 - [OPTICS алгоритм](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html)
->>>>>>> 64324b2 (Final readme commit)
